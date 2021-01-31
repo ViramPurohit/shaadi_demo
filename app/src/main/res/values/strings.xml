@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shaadi</string>
+
+    <string name="no_users">No user available</string>
+    <string name="accept">Accept</string>
+    <string name="member_accept">Accepted</string>
+    <string name="decline">Decline</string>
+    <string name="member_decline">Declined</string>
+</resources>
